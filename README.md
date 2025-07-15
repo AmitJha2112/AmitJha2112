@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Currently+Deploying+Real-World+DevOps+Projects;Mastering+Cloud+Security+and+Monitoring"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines= Currently+Deploying+Real-World+DevOps+Projects;Mastering+Cloud+Security+and+Monitoring"/>
 </p>  
 
 ---
