@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  📍 New Delhi, India &nbsp;|&nbsp; 📧 amitkumarjha2112@gmail.com  
+  📍 New Delhi, India &nbsp;|&nbsp; 📧 amitkumarjha749@gmail.com  
 </p>
 
 <p align="center">
