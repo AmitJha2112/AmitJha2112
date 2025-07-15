@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AWS+DevOps+Engineer+%7C+CI/CD+Specialist+%7C+Cloud+Architect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Engineer+%7C+Monitoring+Tools+%28Nagios%2C+Prometheus%2C+Grafana%29" />
 </p>
 
 <p align="center">
