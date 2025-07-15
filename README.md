@@ -5,20 +5,21 @@
 </p>
 
 <p align="center">
-  <em><strong><span style="color:#007ACC; font-size:18px;">“Automate Everything That Can Be Automated” — My DevOps Mantra ☁️⚙️</span></strong></em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Engineer+%7C+Monitoring+Tools+(Nagios%2C+Prometheus%2C+Grafana)" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Engineer+%7C+Monitoring+Tools+%28Nagios%2C+Prometheus%2C+Grafana%29" />
+  <em><strong>“Automate Everything That Can Be Automated” — My DevOps Mantra ☁️⚙️</strong></em>
 </p>
 
 <p align="center">
-  📍 New Delhi, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 amitkumarjha2112@gmail.com  
+  📍 New Delhi, India &nbsp;|&nbsp; 📧 amitkumarjha2112@gmail.com  
 </p>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/amit-kumar-jha-55b112216">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="https://github.com/AmitJha2112">GitHub</a>
+  🔗 <a href="https://www.linkedin.com/in/amit-kumar-jha-55b112216">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/AmitJha2112">GitHub</a>
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Currently+Deploying+Real-World+DevOps+Projects;Mastering+Kubernetes+Security+and+Monitoring"/>
