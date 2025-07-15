@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Engineer+%7C+Monitoring+Tools+(Nagios%2C+Prometheus%2C+Grafana)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=C+DevOps+Engineer+%7C+Monitoring+Tools+(Nagios%2C)" />
 </p>
 
 <p align="center">
