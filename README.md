@@ -35,6 +35,10 @@ I’m an **AWS DevOps Engineer** with experience in deploying cloud-native appli
 
 I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernetes, GitOps, and AWS Cloud architecture.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmitJha2112/AmitJha2112/main/devsecops.png" alt="DevSecOps" width="600"/>
+</p>
+
 ---
 
 ## 🧰 Tech Stack
@@ -88,8 +92,8 @@ Personal quick reference covering commands & concepts from real-world use.
 
 ## 📊 GitHub Stats
 
-![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitJha2112&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitJha2112&layout=compact&theme=tokyonight)
+![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitJha2112&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitJha2112&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=AmitJha2112&theme=tokyonight)
 
 ---
