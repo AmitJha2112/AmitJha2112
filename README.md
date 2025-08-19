@@ -46,11 +46,15 @@ Currently in the final year of my MCA (2024–2026) at Ganga Institute of Techno
 🔹 CI/CD & Automation: Jenkins, GitHub Actions, Terraform, CloudFormation, Ansible, Shell Scripts
 🔹 Monitoring & Logging: CloudWatch, CloudTrail, Prometheus, Grafana, SNS, SQS
 
+
+
 💡 I specialize in:
 🔹 Automating end-to-end deployment pipelines
 🔹 Managing containerized workloads using Docker & Kubernetes
 🔹 Implementing Infrastructure as Code (IaC) using Ansible & Terraform
 🔹 Monitoring infrastructure using CloudWatch, Prometheus & Grafana
+
+
 
 🎯 AWS Certified Solutions Architect – Associate
 🔐 Solid understanding of Networking (CCNA), Linux, and Python/Bash scripting
@@ -60,11 +64,6 @@ Currently in the final year of my MCA (2024–2026) at Ganga Institute of Techno
 🚀 I'm committed to continuous learning and passionate about building scalable, secure, and innovative cloud-native DevOps solutions, with a growing interest in AI/ML integration and AIOps..
 
 I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernetes, GitOps, and AWS Cloud architecture.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AmitJha2112/AmitJha2112/main/devsecops.png" alt="DevSecOps" width="600"/>
-</p>
-
 ---
 
 ## 🧰 Tech Stack
@@ -89,10 +88,7 @@ I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernete
 
 ## 🏆 Certifications
 
-- 🥇 AWS Certified Solutions Architect – Associate (SAA-C03)  
-- 🥈 CKA, CKAD & CKS – Kubernetes  
-- 🥉 Cisco CCNA & Cybersecurity  
-- ✅ Multiple Python, MySQL, and eDiscovery Certifications
+- 🥇 AWS Certified Solutions Architect – Associate (SAA-C03) 
 
 ---
 
