@@ -35,7 +35,29 @@
 
 <img src="https://img.shields.io/badge/Open%20to-Full--Time%20%2F%20Freelance-orange?style=for-the-badge&logo=freelancer" /> <img src="https://img.shields.io/badge/Focused%20on-AWS%20Cloud-blue?style=for-the-badge&logo=amazonaws" />
 
-I’m an **AWS DevOps Engineer** with experience in deploying cloud-native applications using CI/CD, containerization, infrastructure as code, and automation tools. I’ve worked as a **Data Breach Analyst** at **UnitedLex**, automating workflows using Python and Bash while maintaining secure systems across Linux platforms.
+Currently in the final year of my MCA (2024–2026) at Ganga Institute of Technology & Management, I bring a strong foundation in AWS, Docker, Kubernetes, Jenkins, Ansible, and Linux Administration.
+
+✅ Core AWS & DevOps Skills
+🔹 Compute: EC2, Lambda, Auto Scaling
+🔹 Storage: S3, EBS, EFS
+🔹 Networking: VPC, Subnets, Route Tables, NAT, Route 53
+🔹 Security: IAM, KMS, Security Groups
+🔹 Containers & Orchestration: Docker, Kubernetes (EKS)
+🔹 CI/CD & Automation: Jenkins, GitHub Actions, Terraform, CloudFormation, Ansible, Shell Scripts
+🔹 Monitoring & Logging: CloudWatch, CloudTrail, Prometheus, Grafana, SNS, SQS
+
+💡 I specialize in:
+🔹 Automating end-to-end deployment pipelines
+🔹 Managing containerized workloads using Docker & Kubernetes
+🔹 Implementing Infrastructure as Code (IaC) using Ansible & Terraform
+🔹 Monitoring infrastructure using CloudWatch, Prometheus & Grafana
+
+🎯 AWS Certified Solutions Architect – Associate
+🔐 Solid understanding of Networking (CCNA), Linux, and Python/Bash scripting
+
+💼 Previously worked as a Data Breach Analyst at UnitedLex, where I led automation using Python and ensured secure, high-quality data review for global clients.
+
+🚀 I'm committed to continuous learning and passionate about building scalable, secure, and innovative cloud-native DevOps solutions, with a growing interest in AI/ML integration and AIOps..
 
 I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernetes, GitOps, and AWS Cloud architecture.
 
