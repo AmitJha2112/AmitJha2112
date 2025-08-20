@@ -68,21 +68,47 @@ I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernete
 
 ## 🧰 Tech Stack
 
-**Cloud & Containers:**  
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 🚀 Technical Skills  
+
+**☁️ Cloud Platforms & Services:**  
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+`EC2 | S3 | IAM | VPC | RDS | EBS | EFS | ELB | Auto Scaling | Route 53 | CloudWatch | CloudFormation | Lambda | EKS | Kinesis | CloudFront | SQS | SNS | Security Groups`
+
+---
+
+**💻 Operating Systems & Networking:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+`Ubuntu | CentOS | Red Hat`  
+🌐 Networking: `VPC setup | Route Tables | Subnets | NAT Gateways | CCNA Fundamentals`
+
+---
+
+**⚙️ DevOps & Containerization:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**CI/CD & Infra Automation:**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+`CI/CD Pipelines | Infrastructure as Code (CloudFormation)`
 
-**Languages & Tools:**  
+---
+
+**📊 Monitoring & Logging:**  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
+
+---
+
+**💡 Languages & Scripting:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+**🤝 Soft Skills:**  
+`Problem Solving | Quick Learner | Collaboration`
 
 ---
 
