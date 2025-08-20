@@ -67,11 +67,31 @@ I believe in **clean, repeatable DevOps pipelines** and love exploring Kubernete
 ---
 
 ## 🧰 Tech Stack
-## 🚀 Technical Skills  
 
 **☁️ Cloud Platforms & Services:**  
-![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-`EC2 | S3 | IAM | VPC | RDS | EBS | EFS | ELB | Auto Scaling | Route 53 | CloudWatch | CloudFormation | Lambda | EKS | Kinesis | CloudFront | SQS | SNS | Security Groups`
+## ☁️ AWS Core Services  
+
+Extensive hands-on experience across multiple AWS services covering **Compute, Storage, Networking, Security, Monitoring, and DevOps automation**.  
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EFS](https://img.shields.io/badge/EFS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ELB](https://img.shields.io/badge/ELB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AutoScaling](https://img.shields.io/badge/AutoScaling-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Route53](https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-0052CC?style=for-the-badge&logo=amazoneks&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-FF6000?style=for-the-badge&logo=amazonkinesis&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF4F8B?style=for-the-badge&logo=amazoncloudfront&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-DD344C?style=for-the-badge&logo=amazonsns&logoColor=white)
 
 ---
 
