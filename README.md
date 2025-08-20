@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <em><strong>“Automate Everything That Can Be Automated” — My DevOps Mantra ☁️⚙️</strong></em>
+  <em><strong>“Automate What’s Automatable” — My DevOps Mantra ☁️⚙️</strong></em>
 </p>
 
 <p align="center">
