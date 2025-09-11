@@ -39,7 +39,6 @@ Currently in the final year of my MCA (2024–2026) at Ganga Institute of Techno
 
 ✅ Core AWS & DevOps Skills
 🔹 Compute: EC2, Lambda, Auto Scaling
-
 🔹 Storage: S3, EBS, EFS
 🔹 Networking: VPC, Subnets, Route Tables, NAT, Route 53
 🔹 Security: IAM, KMS, Security Groups
