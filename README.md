@@ -190,3 +190,15 @@ Let’s build scalable, secure, and automated infrastructure together!
 <a href="mailto:amitkumarjha2112@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/📬%20Let's%20Talk-blue?style=for-the-badge&logo=gmail" />
 </a>
+
+
+
+📧 **Connect with me:**
+
+- **GitHub**: [amitjha2112](https://github.com/amitjha2112)   
+- **LinkedIn**: [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-55b112216/)  
+
+---
+
+⭐ Support the Project
+If you found this helpful, consider starring ⭐ the repository and sharing it with your network! 🚀
