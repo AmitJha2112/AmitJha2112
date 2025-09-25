@@ -117,6 +117,8 @@ Extensive hands-on experience across multiple AWS services covering **Compute, S
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-231F20?style=for-the-badge&logo=telegraf&logoColor=white)
 
 ---
 
